@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
-  <NotifCardBase :index='1' sound-url='test' />
+  <NotifCardBase sound-url='test' />
 </template>
 
 <script lang="ts">
