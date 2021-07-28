@@ -1,7 +1,11 @@
 This repo outlines a bug I ran into with the [`@nx-plus/vue`](https://www.npmjs.com/package/@nx-plus/vue) package, that
 does not occur with the Vue CLI
 
-Link to GitHub issue upstream: (TO ADD)
+Link to GitHub issue upstream: https://github.com/ZachJW34/nx-plus/issues/187
+
+> THIS ISSUE HAS BEEN SOLVED
+>
+> https://github.com/ZachJW34/nx-plus/pull/188
 
 # Setup
 
